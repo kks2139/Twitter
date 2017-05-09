@@ -1,6 +1,7 @@
 # Twitter
 Twitter by local server
-Functions
+
+# Functions
 - change PW
 - member join
 - my board
