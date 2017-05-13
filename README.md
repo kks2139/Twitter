@@ -1,4 +1,4 @@
-# Twitter
+# My Simple Twitter
 Twitter by local server
 
 # Functions
