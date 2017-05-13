@@ -2,6 +2,7 @@
 Twitter by local server
 
 # Functions
+- login
 - change PW
 - member join
 - my board
